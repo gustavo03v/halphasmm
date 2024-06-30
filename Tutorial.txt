@@ -1,0 +1,9 @@
+1. Mude as credenciais do banco de dados nos arquivos:
+conexao.php & system/config_database.php (no config_database.php você tambem deve alterar meudominio.com para o seu nome de dominio).
+
+2. adicione uma tarefa cron com o comando "curl —silent https://meudominio.com/glycron.php?token=15201a97ab12a13e01f1cb90598745 >/dev/null 2>&1" (vocÊ deve alterar meudominio.com para o seu nome de dominio).
+
+3. acesse "seudominio.com/admin" use o login: admin e senha: 12345678
+vá até definições e metodos de pagamentos, clique em editar pix automatico e mude o merchant_key para o da sua conta da eXPay Brasil.
+
+4. Pronto. seu painel está instalado e pronto para receber pagamentos.

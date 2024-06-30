@@ -1,0 +1,8 @@
+Goto - Public_html/system/config_database.php
+Update Your Database details here.
+cron Job for example -- curl —silent https://yourdomain.com/glycron.php?token=15201a97ab12a13e01f1cb90598745 >/dev/null 2>&1
+
+
+for more enquiry join our telegram group - https://t.me/nulledbudy
+
+Team Nulledbudy

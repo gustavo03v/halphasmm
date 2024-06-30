@@ -1,0 +1,18 @@
+[02-Oct-2023 15:42:54 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php:460
+Stack trace:
+#0 /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php(460): PDO->query('SELECT * FROM o...')
+#1 /home1/gere0041/numerovirtualpremium.com/index.php(35): require_once('/home1/gere0041...')
+#2 {main}
+  thrown in /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php on line 460
+[03-Oct-2023 15:51:56 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php:460
+Stack trace:
+#0 /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php(460): PDO->query('SELECT * FROM o...')
+#1 /home1/gere0041/numerovirtualpremium.com/index.php(35): require_once('/home1/gere0041...')
+#2 {main}
+  thrown in /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php on line 460
+[03-Oct-2023 16:01:54 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php:460
+Stack trace:
+#0 /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php(460): PDO->query('SELECT * FROM o...')
+#1 /home1/gere0041/numerovirtualpremium.com/index.php(35): require_once('/home1/gere0041...')
+#2 {main}
+  thrown in /home1/gere0041/numerovirtualpremium.com/GlyconSMMScript.php on line 460
